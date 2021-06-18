@@ -23,7 +23,7 @@ The `header` element started like this:
                 <li>...</li>
             </ul>
         </div>
-    </div>
+</div>
 
 ```
 
@@ -37,7 +37,7 @@ And changed to this via Semantic HTML elements:
                     <li>...</li>
                 </ul>
             </nav>
-    </header> 
+</header> 
 
 ```
 
