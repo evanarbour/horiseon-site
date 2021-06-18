@@ -41,4 +41,4 @@ And changed to this via Semantic HTML elements:
 
 ```
 
-## Fully Optimized Webpage!
+## Fully Optimized Webpage! ![screen capture of website] (images/screen_capture.png)
